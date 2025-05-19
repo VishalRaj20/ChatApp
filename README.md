@@ -1,6 +1,6 @@
 # Realtime Responsive 💬Chat App
 
-<img src="https://github.com/VishalRaj20/ChatApp/blob/main/assets/ChatUI.png" alt="Chat App UI Preview" />
+<img src="https://github.com/VishalRaj20/ChatApp/Client/src/assets/ChatApp UI.png" alt="Chat App UI Preview" />
 
 This is a real-time chat application where users can connect, chat in private or groups, and enjoy a modern messaging experience. The project focuses on building a scalable and intuitive communication platform using the latest web technologies.
 
