@@ -34,14 +34,14 @@ This is a real-time chat application where users can connect, chat in private or
 
 ## 🛠️ Technologies Used
 
-### Frontend:
+### Client:
 - React
 - TypeScript
 - Tailwind CSS / Styled Components
 - Axios
 - Socket.IO (Client)
 
-### Backend:
+### Server:
 - Node.js
 - Express.js
 - MongoDB with Mongoose
@@ -52,12 +52,12 @@ This is a real-time chat application where users can connect, chat in private or
 
 ## 🧪 To Run This Project
 
-#Frontend
+#Client
 - cd Client
 - npm install
 - npm run dev
 
-#Backend
+#Server
 - cd Server
 - npm install
 - npm run dev
