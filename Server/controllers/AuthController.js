@@ -1,6 +1,6 @@
 import jwt from "jsonwebtoken";
 import User from "../models/UserModel.js";
-import bcrypt from "bcrypt.js";
+import bcrypt from "bcryptjs";
 import {renameSync, unlinkSync} from "fs";
 
 const createToken = (email, userId) => {
