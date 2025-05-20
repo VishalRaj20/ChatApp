@@ -91,7 +91,7 @@ const Auth = () => {
             </p>
           </div>
           <Tabs defaultValue="login" className="w-full">
-            <TabsList className="grid grid-cols-2 bg-white/30 rounded-full mb-6">
+            <TabsList className="grid grid-cols-2 bg-white/10 rounded-full mb-6">
               <TabsTrigger
                 value="login"
                 className="data-[state=active]:bg-white data-[state=active]:text-indigo-600 font-semibold rounded-full"
